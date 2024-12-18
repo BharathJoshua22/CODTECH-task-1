@@ -52,12 +52,4 @@ Display the result of the chosen operation.
 
 ---
 
-3. Code Highlights
-
-Scanner for Input:
-Used to read numbers and the operator from the user.
-
-Scanner scanner = new Scanner(System.in);
-
-Switch Statement for Operations:
-The selected operation is matched using a switch
+ 
