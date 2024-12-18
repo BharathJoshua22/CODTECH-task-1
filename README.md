@@ -3,7 +3,7 @@ Company : CODTECH IT SOLUTIONS
 ID : CTO08DXC
 Domain : Java Programming
 Duration : December 2024 to January 2025
-Mentor :
+Mentor : Neela Santhosh Kumar
 
 
 Overview of Task 1: Simple Calculator
